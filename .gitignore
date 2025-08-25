@@ -1,0 +1,21 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/node_modules/
+/.cache/
+.DS_Store
+/allure-report/
+/allure-results/
+.env
+.env-*
+.venv
+venv
+__pycache__
+.idea
+build
+dist
+*.egg-info
